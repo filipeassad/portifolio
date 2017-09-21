@@ -8,7 +8,7 @@
 
 Meu nome é Filipe Assad Baraúna, tenho 26 anos, sou engenheiro de computação formado na Universidade Católica Dom Bosco (UDCB). Atualmente estou cursando a pós-graduação de engenharia de software na UCDB. Trabalho como desenvolvedor Java na empresa Missão Salesiana de Mato Grosso. 
 
-[Perfil Facebook](https://www.facebook.com/filipe.assad "Perfil do Facebook")
+[![Face](http://download.seaicons.com/download/i97461/sicons/flat-shadow-social/sicons-flat-shadow-social-facebook.ico)](https://www.facebook.com/filipe.assad "Perfil do Facebook")
 
 ### Objetivos do portfólio 
 
@@ -29,7 +29,7 @@ Venho através dessa página, mostrar um pouco das minhas capacidades de desenvo
 
 ### Projetos 
 
-* Projetos Web
+* [Projetos Web](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
 * Projetos Mobile
 * Projetos Desktop
 * Projetos Arduino
