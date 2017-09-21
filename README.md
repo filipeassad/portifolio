@@ -2,6 +2,8 @@
 
 ### Quem é Filipe Assad ?
 
+![Filipe](https://github.com/filipeassad/portifolio/blob/master/14925726_1174296922662485_2221897641166701758_n.jpg)
+
 Meu nome é Filipe Assad Baraúna, tenho 26 anos, sou engenheiro de computação formado na Universidade Católica Dom Bosco (UDCB). Atualmente estou cursando a pós-graduação de engenharia de software na UCDB. Trabalho como desenvolvedor Java na empresa Missão Salesiana de Mato Grosso. 
 
 ### Objetivos do portfólio 
