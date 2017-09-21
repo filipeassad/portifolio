@@ -28,9 +28,9 @@ Venho através dessa página, mostrar um pouco das minhas capacidades de desenvo
 ### Projetos 
 
 * [Projetos Web](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
-* Projetos Mobile
-* Projetos Desktop
-* Projetos Arduino
+* [Projetos Mobile](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
+* [Projetos Desktop](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
+* [Projetos Arduino](https://stackoverflow.com/questions/40013934/severe-a-child-container-failed-during-start-java-util-concurrent-executionexce)
 
 ### Contato
 
