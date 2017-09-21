@@ -10,6 +10,10 @@ Meu nome é Filipe Assad Baraúna, tenho 26 anos, sou engenheiro de computação
 
 [![Face](https://github.com/filipeassad/portifolio/blob/master/Imagens/facebook.png)](https://www.facebook.com/filipe.assad "Perfil do Facebook")
 
+[![Twitter](https://github.com/filipeassad/portifolio/blob/master/Imagens/facebook.png)](https://twitter.com/lipeassad "Perfil do Twitter")
+
+
+
 ### Objetivos do portfólio 
 
 Venho através dessa página, mostrar um pouco das minhas capacidades de desenvolvimento. Eu vou deixa algumas informações e alguns projetos há disposição.
