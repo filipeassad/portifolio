@@ -3,7 +3,7 @@
 ![Filipe](https://github.com/filipeassad/portifolio/blob/master/Imagens/img%20topo.png)
 
 
-Meu nome é Filipe Assad Baraúna, tenho 26 anos, sou engenheiro de computação formado na Universidade Católica Dom Bosco (UDCB). Sou de Ladário-MS mas estou morando em Campo Grande-MS. Atualmente estou cursando a pós-graduação de engenharia de software na UCDB. Trabalho como desenvolvedor Java na empresa Missão Salesiana de Mato Grosso. 
+Meu nome é Filipe Assad Baraúna, tenho 27 anos, sou engenheiro de computação formado na Universidade Católica Dom Bosco (UDCB). Sou de Ladário-MS mas estou morando em Campo Grande-MS. Atualmente estou cursando a pós-graduação de engenharia de software na UCDB. Trabalho como desenvolvedor Java na empresa Missão Salesiana de Mato Grosso. 
 
 ### Objetivos do portfólio 
 
